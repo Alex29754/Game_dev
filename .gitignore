@@ -1,0 +1,55 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Unity crash and memory files
+[Mm]emoryCaptures/
+[Rr]ecordings/
+sysinfo.txt
+*.stackdump
+
+# Unity generated project files
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# IDE and editor folders
+.vs/
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Local asset archives and extracted source packs in the project root
+/*.zip
+/kenney_pirate-kit/
+/Models/
+/Previews/
+/Overview.html
+/License.txt
+/View Documentation.url
+/Visit Kenney.url
+/Visit Patreon.url
